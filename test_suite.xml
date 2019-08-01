@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "http://testng.org/testng-1.0.dtd">
+<suite name="Test Suite for Automation Task">
+    <test name="Tests for Login">
+        <parameter name="browser" value="Chrome"/>
+        <classes>
+            <class name="ui_tests.LoginTest" />
+            <class name="ui_tests.RegisterTest" />
+            <class name="ui_tests.TravelSearchTest" />
+        </classes>
+    </test>
+</suite>

@@ -1,0 +1,33 @@
+01 Aug 2019 21:38:13 [INFO ] ui_tests.UITestBase openBrowser:37 - Opening the Chrome Browser.
+01 Aug 2019 21:38:15 [INFO ] ui_tests.UITestBase openWebApp:65 - Opening the Check24 Web Application Landing Page.
+01 Aug 2019 21:38:17 [INFO ] ui_tests.LoginTest setUp:14 - Navigate to Landing Page
+01 Aug 2019 21:38:17 [INFO ] pages.LandingPage navigateToPage:36 - Navigate to Login Page.
+01 Aug 2019 21:38:17 [INFO ] ui_tests.LoginTest verifyLoginSuccessfulWithValidCredentials:21 - Verify user is able to login successfully with valid credentials.
+01 Aug 2019 21:38:17 [INFO ] pages.BasePage fillBasicEmailAndPwdFields:97 - Enter the email.
+01 Aug 2019 21:38:18 [INFO ] pages.BasePage fillBasicEmailAndPwdFields:99 - Enter the Password.
+01 Aug 2019 21:38:18 [INFO ] pages.BasePage fillBasicEmailAndPwdFields:101 - Enter the Repeat password.
+01 Aug 2019 21:38:18 [INFO ] pages.LoginPage loginToAccount:28 - Click on submit button.
+01 Aug 2019 21:38:20 [INFO ] ui_tests.UITestBase closeBrowser:59 - Quiting the Browser.
+01 Aug 2019 21:38:20 [INFO ] ui_tests.UITestBase openBrowser:37 - Opening the Chrome Browser.
+01 Aug 2019 21:38:21 [INFO ] ui_tests.UITestBase openWebApp:65 - Opening the Check24 Web Application Landing Page.
+01 Aug 2019 21:38:23 [INFO ] ui_tests.RegisterTest setUp:14 - Navigate to Landing Page
+01 Aug 2019 21:38:23 [INFO ] pages.LandingPage navigateToPage:31 - Navigate to Register Page.
+01 Aug 2019 21:38:24 [INFO ] ui_tests.RegisterTest verifyUserSuccessfulRegistration:21 - Verify user is able to register successfully
+01 Aug 2019 21:38:24 [INFO ] pages.BasePage fillBasicEmailAndPwdFields:97 - Enter the email.
+01 Aug 2019 21:38:24 [INFO ] pages.BasePage fillBasicEmailAndPwdFields:99 - Enter the Password.
+01 Aug 2019 21:38:24 [INFO ] pages.BasePage fillBasicEmailAndPwdFields:101 - Enter the Repeat password.
+01 Aug 2019 21:38:24 [INFO ] pages.RegisterPage fillRegistrationForm:36 - Click on Submit button.
+01 Aug 2019 21:38:27 [INFO ] ui_tests.UITestBase closeBrowser:59 - Quiting the Browser.
+01 Aug 2019 21:38:27 [INFO ] ui_tests.UITestBase openBrowser:37 - Opening the Chrome Browser.
+01 Aug 2019 21:38:28 [INFO ] ui_tests.UITestBase openWebApp:65 - Opening the Check24 Web Application Landing Page.
+01 Aug 2019 21:38:30 [INFO ] ui_tests.TravelSearchTest setUp:16 - Navigate to Landing Page
+01 Aug 2019 21:38:30 [INFO ] pages.LandingPage navigateToPage:40 - Navigate to Travel Page.
+01 Aug 2019 21:38:32 [INFO ] ui_tests.TravelSearchTest verifyUserSearchTravelPlan:22 - Preparing the travel search data.
+01 Aug 2019 21:38:32 [INFO ] ui_tests.TravelSearchTest verifyUserSearchTravelPlan:29 - Verify user is able to search travel plan successfully with at least 1 search result.
+01 Aug 2019 21:38:32 [INFO ] pages.TravelPage setDestination:52 - Enter the destination
+01 Aug 2019 21:38:32 [INFO ] pages.TravelPage setAirport:58 - Enter the airport name
+01 Aug 2019 21:38:33 [INFO ] pages.TravelPage setDaysDuration:65 - Enter the duration detail
+01 Aug 2019 21:38:34 [INFO ] pages.TravelPage setDepAndReturnDates:72 - Enter the departure date
+01 Aug 2019 21:38:34 [INFO ] pages.TravelPage setDepAndReturnDates:74 - Enter the return date
+01 Aug 2019 21:38:34 [INFO ] pages.TravelPage searchTravelPlan:43 - Click on submit button.
+01 Aug 2019 21:38:39 [INFO ] ui_tests.UITestBase closeBrowser:59 - Quiting the Browser.
